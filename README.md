@@ -32,3 +32,4 @@ Com o Chat GPT criei o texto do convite e um prompt em inglês para gerar a imag
 
 
 
+
