@@ -30,7 +30,8 @@ Com o Chat GPT criei o texto do convite e um prompt em inglês para gerar a imag
 ## 🚀 Resultados
 
 <p>
-<a href="https://github.com/eu-ingrid/lab-natty-or-not/blob/main/output/convite.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
+         <a href="https://github.com/eu-ingrid/lab-natty-or-not/blob/main/output/convite.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
  </p>
 
 ## 👨‍💻 Expert
