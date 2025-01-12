@@ -13,7 +13,6 @@ Repositório criado durante o Bootcamp "CAIXA - IA Generativa com Microsoft Copi
 
 ### Template
 
-```markdown
 # Flashback 60: Transformando Memórias em Experiências Digitais com IA
 
 ## 📒 Descrição
